@@ -1,8 +1,10 @@
-## Aplicación de comandos
+## Multiplicar Console App
 
-Este es el ejercicio de node
+Esta es una aplicación para generar archivos de tablas de multiplicar
 
+Ejecutar este comando
 
 ```
 npm install
+
 ```
